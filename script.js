@@ -22,7 +22,7 @@ function verificar() {
                 // Jovem
                 img.setAttribute('src', 'foto-homemjovem.png')
                 document.body.style.background = '#9108e0'
-            } else if (idade > 24 && idade <= 49) {
+            } else if (idade > 23 && idade <= 49) {
                 // Adulto
                 img.setAttribute('src', 'foto-homem.png')
                 document.body.style.background = '#201868'
@@ -41,7 +41,7 @@ function verificar() {
                 // Jovem
                 img.setAttribute('src', 'foto-mulherjovem.png')
                 document.body.style.background = '#22eecc'
-            } else if (idade > 24 && idade <= 49) {
+            } else if (idade > 23 && idade <= 49) {
                 // Adulto
                 img.setAttribute('src', 'foto-mulher.png')
                 document.body.style.background = '#e6f511'
