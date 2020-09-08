@@ -1,6 +1,5 @@
 # verificador de idade
 Verificador de idade e gênero.
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
